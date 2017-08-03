@@ -7,4 +7,4 @@ Implementation of th complete unreal creator course on udemy
 
 
 ##Project Part
-* BT01 Intro,Notes $Assets
+* BT01 Intro,Notes & Assets
